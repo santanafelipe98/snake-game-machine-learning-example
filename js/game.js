@@ -449,7 +449,7 @@ class SpawnManager {
 
 // Model settings
 
-const URL = "../model/";
+const URL = "/model/";
 const CLASS_PROB_THRESHOLD = 0.6;
 
 let model;
