@@ -4,6 +4,13 @@ Clássico jogo da cobra desenvolvido em Vanilla JS. A ideia do projeto é aplica
 
 O jogo permite alternar o controle entre teclado e webcam.
 
+- A - Esquerda
+- D - Direita
+- W - Cima
+- S - Baixo
+
+Veja a demonstração [aqui](https://santanafelipe98.github.io/snake-game-machine-learning-example).
+
 ![Snake Game](https://i.imgur.com/nMMXlYK.png)
 
 ## Stack

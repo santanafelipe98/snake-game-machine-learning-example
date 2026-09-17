@@ -651,7 +651,7 @@ function _updateScore(value) {
 
 function _loadHighscore() {
     const highscore = window.localStorage.getItem(highscoreKey);
-    
+
     return highscore ? Number(highscore) : 0;
 }
 
